@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyPhone</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="type_your_message">Type Your Message</string>
+    <string name="hello_world_splash">Hello World, splash</string>
+    <string name="talk_better_be_better">Talk better, Be better!</string>
+</resources>
